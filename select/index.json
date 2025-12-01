@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "日常と地球の額縁",
+  "base_artist": "hitorie",
+  "createdAt": "2025-12-01T02:45:05.208711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/01_日常と地球の額縁_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/02_日常と地球の額縁_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/03_日常と地球の額縁_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/04_日常と地球の額縁_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka (現実逃避P) Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_日常と地球の額縁_wowaka_(現実逃避P)_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/06_日常と地球の額縁_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/07_日常と地球の額縁_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/08_日常と地球の額縁_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/09_日常と地球の額縁_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka/初音ミク",
+      "has_synced": true,
+      "path": "select/10_日常と地球の額縁_wowaka_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "WOWAKA",
+      "has_synced": true,
+      "path": "select/11_日常と地球の額縁_WOWAKA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka",
+      "has_synced": true,
+      "path": "select/12_日常と地球の額縁_wowaka.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "wowaka (現��逃避p) feat. 初�����ク",
+      "has_synced": true,
+      "path": "select/13_日常と地球の額縁_wowaka_(現��逃避p)_feat._初�����ク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "日常と地球の額縁",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/14_日常と地球の額縁_ヒトリエ.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "日常と地球の額縁",
+      "artist": "hitorie",
+      "has_synced": false,
+      "path": "select/pl_日常と地球の額縁_hitorie.txt"
+    }
+  ]
+}
